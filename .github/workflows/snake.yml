@@ -1,18 +1,9 @@
 name: Generate Snake
 
 on:
-  # run automatically every 6 hours
   schedule:
-    - cron: "0 */6 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 */6 * * *" # dijalankan setiap 6 jam
   workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - master
-    - main
 
 jobs:
   build:
@@ -20,16 +11,16 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - uses: Platane/snk@v2
         with:
+          # ganti syawal07 dengan username githubmu jika berbeda
           github_user_name: syawal07
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
