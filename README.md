@@ -1,30 +1,42 @@
-<br/>
-<hr/>
-<br/>
-
-<h2 align="center">⚡ Activity & Commit Analytics</h2>
-<p align="center">
-  <i>A glance at my coding habits and consistency over time.</i>
-</p>
-
-<br/>
-
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=syawal07&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="Syawal's Trophies" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Syawal+Saputra!+👋;Staff+IT+%26+Teacher+at+Mu'allimin;Tech+Mentor+%40+DBS+Foundation+Dicoding;Full+Stack+Developer+(PHP+%2F+JS+%2F+Python);Building+Scalable+EdTech+Solutions" alt="Typing SVG" />
+  
+  <p align="center">
+     <b>System Analyst | Open Source Enthusiast | Tech Educator</b>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/syawal-saputra-6a118125b/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:syawalaja0712@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="http://syawal07.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-100000?style=flat-square&logo=github&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
 </div>
 
-<br/>
+<hr/>
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr border="0">
-      <td width="50%" align="center" border="0">
-        <img src="https://github-readme-stats.vercel.app/api?username=syawal07&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true" alt="Syawal's Github Stats" style="width:100%;" />
+  <table>
+    <tr>
+      <td valign="center" width="60%">
+        <h3>👋 About Me</h3>
+        <p>
+          I transform complex requirements into efficient, scalable, and user-friendly digital products. 
+          Currently focusing on <b>EdTech Innovation</b> and shaping the next generation of developers as a Mentor at <b>DBS Foundation Dicoding Camp 2025</b>.
+        </p>
+        <ul>
+          <li>🔭 I’m currently working on <b>GrafBimbel & School Systems</b></li>
+          <li>🌱 I’m currently learning <b>Headless Architecture & AI Integration</b></li>
+          <li>💬 Ask me about <b>Laravel, Next.js, or Python</b></li>
+        </ul>
       </td>
-      <td width="50%" align="center" border="0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syawal07&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" style="width:100%;" />
+      <td valign="center" width="40%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-708d7020-5c6a-4b95-8854-1b20f69a5315.gif" width="100%" alt="Coding Animation"/>
       </td>
     </tr>
   </table>
@@ -32,39 +44,62 @@
 
 <br/>
 
-<h3 align="center">🔥 Coding Streak</h3>
+<h3 align="center">🛠️ The Arsenal</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syawal07&theme=radical&hide_border=true" alt="Syawal's Coding Streak" />
-</div>
-
-<br/>
-
-<h3 align="center">🐍 Contribution History</h3>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/syawal07/syawal07/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/syawal07/syawal07/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/syawal07/syawal07/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-  <p align="center">
-    <sub><i>(If the snake image is broken, the GitHub Action needs to run once to generate it.)</i></sub>
-  </p>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
-  <h3>✨ Let's create something impactful together! ✨</h3>
-  <p>Open for professional collaboration or mentorship opportunities.</p>
-  <p>
-    <a href="https://www.linkedin.com/in/syawal-saputra-6a118125b/">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+  <img src="https://skillicons.dev/icons?i=php,python,ts,js,html,css&perline=6" alt="Languages" />
   <br/>
-  <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=syawal07.syawal07&left_color=black&right_color=2E91E3&left_text=Profile%20Views" alt="visitor badge"/>
-  </p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nestjs,nodejs,express&perline=6" alt="Frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,cloudflare,git,postman&perline=7" alt="Tools" />
+</div>
+
+<br/>
+
+<h3 align="center">🚀 High-Impact Projects</h3>
+<div align="center">
+
+| **Project** | **Description** | **Core Stack** |
+| :--- | :--- | :--- |
+| **AksaraAbadi.id** | Digital literacy platform with decoupled architecture. | `Next.js` `NestJS` `Sanity` |
+| **Ijo-ijo App** | Gamification platform for environmental sustainability. | `TypeScript` `NestJS` `MongoDB` |
+| **GrafBimbel** | EdTech LMS with automated payroll & scheduling. | `Laravel` `React` `Docker` |
+| **AI Attendance** | Automated face recognition system for schools. | `Python` `OpenCV` `TensorFlow` |
+
+</div>
+
+<br/>
+
+<h3 align="center">📊 Coding Activity</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=syawal07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="160" alt="stats graph" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syawal07&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="160" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=syawal07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/syawal07/syawal07/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=syawal07&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+  <br/>
+  <br/>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </div>
